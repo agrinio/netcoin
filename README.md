@@ -1,0 +1,4 @@
+netcoin
+=======
+
+Cryptocurrency coin
